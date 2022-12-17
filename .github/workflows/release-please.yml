@@ -53,4 +53,3 @@ jobs:
             ${{ steps.compile.outputs.BUILT_ARCHIVE }}
             ${{ steps.compile.outputs.BUILT_CHECKSUM }}
           tag: ${{ needs.release-please.outputs.tag_name }}
-          file_glob: true
