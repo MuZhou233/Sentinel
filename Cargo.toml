@@ -1,6 +1,6 @@
 [package]
 name = "sentinel"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["MuZhou233 <muzhou233@outlook.com>"]
 license = "MIT"
 readme = "README.md"
