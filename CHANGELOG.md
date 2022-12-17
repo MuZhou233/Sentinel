@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/MuZhou233/Sentinel/compare/v0.0.3...v0.0.4) (2022-12-17)
+
+
+### Bug Fixes
+
+* ci ([fddb460](https://github.com/MuZhou233/Sentinel/commit/fddb460a87d4fa82879e95db9306c7472dac8a26))
+
 ## [0.0.3](https://github.com/MuZhou233/Sentinel/compare/v0.0.2...v0.0.3) (2022-12-17)
 
 
